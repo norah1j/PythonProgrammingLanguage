@@ -1,2 +1,2 @@
 # PythonProgrammingLanguage
-Python fast learning from http://pythonprogramminglanguage.com/ (the website from python.org)
+Python fast learning from https://pythonprogramminglanguage.com/ (the website from python.org)
